@@ -1,3 +1,5 @@
+I Have tested this under Redmine 3.4.6.stable
+
 Redmine Email Fetcher
 =====================
 
