@@ -6,6 +6,7 @@ fieldset.box legend {
 
 #admin-menu a.email-configurations {
     background-image: url('../images/email.png');
+	background-repeat:no-repeat;
 }
 
 #projects_list {
